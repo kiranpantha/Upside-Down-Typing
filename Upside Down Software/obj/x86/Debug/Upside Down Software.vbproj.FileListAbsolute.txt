@@ -1,0 +1,12 @@
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\Upside Down Software.exe
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\Upside Down Software.xml
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\Upside Down Software.pdb
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\Upside_Down_Software.main.resources
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\Upside_Down_Software.upside.resources
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\Upside_Down_Software.Resources.resources
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\bin\Debug\Upside Down Software.exe
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\bin\Debug\Upside Down Software.pdb
+F:\vbcodes10\UpsideDown\Upside Down Software\Upside Down Software\bin\Debug\Upside Down Software.xml
